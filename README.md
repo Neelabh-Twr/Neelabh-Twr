@@ -1,5 +1,5 @@
-- Hi, I’m Neelabh Tiwari, high-school student from India, Class 10th
+- Hi, I’m Neelabh Tiwari, high-school student from India, Class 11th
 - I’m interested in Python, R, Css, Java, JavaScript, C, C++ and C#
-- I’m currently learning Css, R and JavaScript 
-- I’m looking to collaborate on frontend development of mobile applications
+- I’m currently learning Python, JavaScript and Css
+- I’m looking to collaborate on frontend development of mobile/web applications
 - How to reach me- neelabhtiwarii@gmail.com
